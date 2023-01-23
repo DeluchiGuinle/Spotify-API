@@ -12,9 +12,3 @@ Uma interface que permite aos usuários pesquisar seus artistas e álbuns favori
 -    Uma imagem padrão será exibida para resultados que não possuem imagens.
 -    A rolagem infinita só é possível quando a string "scroll=infinite" aparece na string de consulta quando a página é carregada. A rolagem infinita permite que o usuário role para baixo até a parte inferior dos resultados listados e a próxima página de resultados será carregada automaticamente e anexada aos resultados mais recentes. Como parte dessa funcionalidade, o botão 'Mais' desaparece.
 
-##  Visualização
-
-** _Página de apresentação e registro_ **
-![](registration.gif)
-
-![default](https://user-images.githubusercontent.com/123118063/213928299-0045fef8-2a8a-44c1-b4d1-1d2bdee2f13f.png)
