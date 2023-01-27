@@ -4,6 +4,8 @@
 
 ##  Visão geral
 
+<img src="https://user-images.githubusercontent.com/123118063/215071247-01575b1c-99b1-4b3e-a0fb-9085ea056d1b.png" height="285" width="285"/>
+
 Uma interface que permite aos usuários pesquisar seus artistas e álbuns favoritos fazendo chamadas AJAX para a API do Spotify por meio de um proxy. Clicar em qualquer resultado de pesquisa redirecionará o usuário para a página do Spotify do artista/álbum relacionado.
 
 ##  Recursos
